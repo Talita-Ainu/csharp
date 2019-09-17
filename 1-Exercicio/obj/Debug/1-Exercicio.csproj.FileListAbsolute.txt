@@ -1,0 +1,7 @@
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\1-Exercicio\bin\Debug\1-Exercicio.exe.config
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\1-Exercicio\bin\Debug\1-Exercicio.exe
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\1-Exercicio\bin\Debug\1-Exercicio.pdb
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\1-Exercicio\obj\Debug\1-Exercicio.csprojAssemblyReference.cache
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\1-Exercicio\obj\Debug\1-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\1-Exercicio\obj\Debug\1-Exercicio.exe
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\1-Exercicio\obj\Debug\1-Exercicio.pdb

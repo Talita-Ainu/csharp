@@ -1,0 +1,7 @@
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\03-teste\bin\Debug\03-teste.exe.config
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\03-teste\bin\Debug\03-teste.exe
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\03-teste\bin\Debug\03-teste.pdb
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\03-teste\obj\Debug\03-teste.csprojAssemblyReference.cache
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\03-teste\obj\Debug\03-teste.csproj.CoreCompileInputs.cache
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\03-teste\obj\Debug\03-teste.exe
+C:\Users\Dkp\Documents\ApCSharp-DKP\Ap.CSharp\03-teste\obj\Debug\03-teste.pdb
